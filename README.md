@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! This is a modern, highly interactive, and responsive web application built using **React (Vite)** to showcase my skills, projects, and achievements in Artificial Intelligence, Data Science, and Web Development.
 
 ## 🌟 Live Demo
-👉 **[View Live on Vercel](https://your-portfolio-link.vercel.app)** *(Replace with your actual Vercel URL)*
+👉 **[View Live on Vercel]([https://your-portfolio-link.vercel.app](https://santhosh-ai.vercel.app/))**
 
 ## 🛠️ Core Features
 
